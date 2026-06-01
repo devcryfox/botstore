@@ -1,2 +1,0 @@
-# botstore
-telegram bot store
