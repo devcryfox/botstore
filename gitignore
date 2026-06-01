@@ -1,0 +1,17 @@
+# Entorno virtual
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos locales / sensibles
+admin_gui.py
+respaldo.sql
+*.sql
+
+# OS
+.DS_Store
+Thumbs.db
